@@ -1,0 +1,2 @@
+text
+# Sample placeholder input file.
